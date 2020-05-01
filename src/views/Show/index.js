@@ -1,5 +1,5 @@
 import React from "react"
-import style from "@assets/css/show.module.css"
+import style from "@assets/css/home.module.css"
 class Show extends React.Component{
     render(){
         return(

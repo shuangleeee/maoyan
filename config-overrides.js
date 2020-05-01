@@ -7,7 +7,7 @@ module.exports = function override(config, env) {
         '@': resolve('./src'),
         "@views":resolve('./src/views'),
         "@assets":resolve('./src/assets'),
-        "@component":resolve('./src/component'),
+        "@components":resolve('./src/components'),
         "@store":resolve('./src/store'),
         "@router":resolve('./src/router'),
     }
